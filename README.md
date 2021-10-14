@@ -4,9 +4,10 @@
 In this project, I would use "Crimes against to woman in India" dataset. https://gist.github.com/lzlazmSylas/6be318f1ef48498d10f831bbd78782f3
 This date set contains the crime cases information in different districts in each state in Inda from 2001 to 2014. I will visualize this data set in my project.  
 **Attribute**  
-|   Name   |Type  | Description |
-|  ----  | ----  |
-|  2  | 1  |3|
+
+Name   |Type  | Description
+ ----  | ----  
+2  | 1  |3
 - STATE: state in india  
 - DISTRICT: district in state  
 - Year: The time that crime happened  
