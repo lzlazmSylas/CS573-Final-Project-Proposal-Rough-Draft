@@ -29,12 +29,12 @@ This date set contains the crime cases information in different districts in eac
 **The first prototype(basic bar chart)**  
 This is the bar chart showing the total number of rape cases for each state in 2008. The X-axis represent the total number of given cases, the Y-axis represent each state in India.  
 ![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/0001.png)
-https://vizhub.com/lzlazmSylas/25164a46b17f4e20a32240b2bf241e8a  
+ 
 **The second prototype(Interactive bar chart)**  
 
 Adding two drop down menu to the bar chart. One for filtering data by year that cases occored, another one is to filter the data by specific type crime case.  
-All data are sorted in descending order so the first question will be solved in this interactive bar chart.  
-![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/002.png)   
+All data are sorted in descending order so the first question will be solved in this interactive bar chart.   
+![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/0002.png)   
 https://vizhub.com/lzlazmSylas/bc8f3f3d95fd46418a057950afec3480     
 
 # Sketches
