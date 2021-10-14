@@ -7,7 +7,7 @@ This date set contains the crime cases information in different districts in eac
 **Attribute**   
 
 | Name | Type | right |
-| :--- | :----: | ----: |
+| :--- | :----: | :---- |
 | STATE | Categorical | state in india   |
 | DISTRICT    | Categorical      | district in state       |  
 | Year    | Ordinal     | Year     |  
