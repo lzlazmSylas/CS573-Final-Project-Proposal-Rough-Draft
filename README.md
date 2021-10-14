@@ -23,7 +23,7 @@ This date set contains the crime cases information in different districts in eac
 - Which state have highest total number of specific crimes in each year. (bar chart)
 - Which state have highest number of crimes for each type of crime. (pie chart)
 - What kind of crime take the largest precentage among the all kind of crimes for each year. (pie chart)
-- The more intuitive version of crime cases! (map cahrt)
+- How does total number of crimes occured in each state compare to each other? The more intuitive version of crime cases! (map cahrt)
 
 # Prototype
 **The first prototype(basic bar chart)**  
@@ -31,7 +31,6 @@ This is the bar chart showing the total number of rape cases for each state in 2
 ![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/0001.png)
  
 **The second prototype(Interactive bar chart)**  
-
 Adding two drop down menu to the bar chart. One for filtering data by year that cases occored, another one is to filter the data by specific type crime case.  
 All data are sorted in descending order so the first question will be solved in this interactive bar chart.   
 ![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/0002.png)   
