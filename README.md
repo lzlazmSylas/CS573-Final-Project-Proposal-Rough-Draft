@@ -4,7 +4,7 @@
 In this project, I would use "Crimes against to woman in India" dataset. https://gist.github.com/lzlazmSylas/6be318f1ef48498d10f831bbd78782f3
 This date set contains the crime cases information in different districts in each state in Inda from 2001 to 2014. I will visualize this data set in my project.    
 
-**Attribute**   
+**Attribute：**   
 
 | Name | Type | right |
 | :--- | :----: | :---- |
@@ -26,6 +26,11 @@ This date set contains the crime cases information in different districts in eac
 - The more intuitive version of crime cases! (map cahrt)
 
 # Prototype
-The first prototype 
+**The first prototype(basic bar chart)**  
+https://vizhub.com/lzlazmSylas/25164a46b17f4e20a32240b2bf241e8a
+**The second prototype(Interactive bar chart)**  
 
 # Schedule of Deliverables
+
+# Possible Question
+- The some name of state maynot match to the mapchart build in d3.  
