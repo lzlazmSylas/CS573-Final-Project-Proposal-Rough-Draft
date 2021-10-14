@@ -39,7 +39,7 @@ https://vizhub.com/lzlazmSylas/bc8f3f3d95fd46418a057950afec3480
 
 # Sketches
 **Pie chart one**  
-This pie chart will show the percentage of the total number for crime type in each year.  
+This pie chart will show the percentage of the total number for different crime type in each year.  
 There is one dropdown menu stick to this pie chart, it allows user to select the specific year then pie chart will be immediately rendered based on that.  
 ![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/piechart01.png)  
 
