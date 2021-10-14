@@ -1,7 +1,8 @@
 # CS573 Final Project Proposal Rough Draft
 
 # Data
-In this project, I would use "Crimes against to woman in India" dataset. https://gist.github.com/lzlazmSylas/6be318f1ef48498d10f831bbd78782f3
+In this project, I would use "Crimes against to woman in India" dataset.  
+https://gist.github.com/lzlazmSylas/6be318f1ef48498d10f831bbd78782f3   
 This date set contains the crime cases information in different districts in each state in Inda from 2001 to 2014. I will visualize this data set in my project.    
 
 **Attribute：**   
@@ -52,8 +53,8 @@ There is one dropdown menu stick to this pie chart, it allows user to select the
 This map chart will show the total number of crime cases in different by the give year and crime type, so this chart will be link to the interative bar chart.   
 They both share the two dropdown menu bound to barchart. When the element under the dropdown menu chaged, the map char will be rendered again.   
 The state will be marked as one of the colors and the darker the color, the higher the crime rates.  
-In this case I define the crime rate is equal to the number of selected type of crime for a state/ total number of crime for the given year.
-
+In this case I define the crime rate is equal to the number of selected type of crime for a state/ total number of crime for the given year.  
+![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/mapchart.png)  
 # Schedule of Deliverables  
 **Week 7**
 - Finish the interative bar chart
