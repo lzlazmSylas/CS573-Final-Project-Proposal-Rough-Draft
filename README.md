@@ -2,14 +2,20 @@
 
 # Data
 In this project, I would use "Crimes against to woman in India" dataset. https://gist.github.com/lzlazmSylas/6be318f1ef48498d10f831bbd78782f3
-This date set contains the crime cases information in different districts in each state in Inda from 2001 to 2014. I will visualize this data set in my project.  
+This date set contains the crime cases information in different districts in each state in Inda from 2001 to 2014. I will visualize this data set in my project.    
+
 **Attribute**   
 
-
-| left | center | right |
+| Name | Type | right |
 | :--- | :----: | ----: |
-| aaaa | bbbbbb | ccccc |
-| a    | b      | c     |   
+| STATE | bbbbbb | ccccc |
+| DISTRICT    | b      | c     |  
+| Year    | b      | c     |   
+| Kidnapping and Abduction    | b      | c     |   
+| Dowry Deaths    | b      | c     |   
+| Assault on Women    | b      | c     |   
+| Insult to Modesty of Women    | b      | c     |   
+| Cruelty by Husband or His Relatives    | b      | c     |   
 - STATE: state in india  
 - DISTRICT: district in state  
 - Year: The time that crime happened  
