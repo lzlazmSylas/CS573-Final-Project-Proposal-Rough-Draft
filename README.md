@@ -1,4 +1,4 @@
-# CS573 Final Project Proposal Final Version
+# CS573 Final Project Proposal (Final Version)
 
 # Data
 In this project, I would use "Crimes against to woman in India" dataset.  
