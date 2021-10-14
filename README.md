@@ -8,24 +8,17 @@ This date set contains the crime cases information in different districts in eac
 
 | Name | Type | right |
 | :--- | :----: | ----: |
-| STATE | bbbbbb | ccccc |
-| DISTRICT    | b      | c     |  
-| Year    | b      | c     |   
-| Kidnapping and Abduction    | b      | c     |   
-| Dowry Deaths    | b      | c     |   
-| Assault on Women    | b      | c     |   
-| Insult to Modesty of Women    | b      | c     |   
-| Cruelty by Husband or His Relatives    | b      | c     |   
-- STATE: state in india  
-- DISTRICT: district in state  
-- Year: The time that crime happened  
-- Rape: number of rape  
-- Kidnapping and Abduction:  number of kindnapping and abduction
-- Dowry Deaths:  number of dowry death
-- Assault on Women:  number of assaulting
-- Insult to Modesty of Women:  number of insulting case
-- Cruelty by Husband or His Relatives : number of cruelty by hubsband or victim's relatives
-- 
+| STATE | Categorical | state in india   |
+| DISTRICT    | Categorical      | district in state       |  
+| Year    | Ordinal     | Year     |  
+| Rape    | Quantitative     | number of rape     |  
+| Kidnapping and Abduction    | Quantitative      |  number of kindnapping and abduction     |   
+| Dowry Deaths    | Quantitative      | number of dowry death     |   
+| Assault on Women    | Quantitative      | number of assaulting     |   
+| Insult to Modesty of Women    | Quantitative      | number of insulting case     |   
+| Cruelty by Husband or His Relatives    | Quantitative      | number of cruelty by hubsband or victim's relatives    |   
+
+ 
 # Questions and Tasks
 - Which state have highest total number of specific crimes in each year. (bar chart)
 - Which state have highest number of crimes for each type of crime. (pie chart)
