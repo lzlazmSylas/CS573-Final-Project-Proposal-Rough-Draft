@@ -50,7 +50,7 @@ There is one dropdown menu stick to this pie chart, it allows user to select the
 ![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/piechart02.png) 
 
 **Map chart**  
-This map chart will show the total number of crime cases in different by the give year and crime type, so this chart will be link to the interative bar chart.   
+This map chart will show the total number of crime cases in different state by the given year and crime type, so this chart will be link to the interative bar chart.   
 They both share the two dropdown menu bound to barchart. When the element under the dropdown menu chaged, the map char will be rendered again.   
 The state will be marked as one of the colors and the darker the color, the higher the crime rates.  
 In this case I define the crime rate is equal to the number of selected type of crime for a state/ total number of crime for the given year.  
