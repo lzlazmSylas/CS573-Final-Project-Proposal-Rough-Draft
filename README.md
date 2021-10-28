@@ -55,6 +55,10 @@ They both share the two dropdown menu bound to barchart. When the element under 
 The state will be marked as one of the colors and the darker the color, the higher the crime rates.  
 In this case I define the crime rate is equal to the number of selected type of crime for a state/ total number of crime for the given year.  
 ![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/mapchart.png)  
+
+**Whats New?**  
+
+
 # Schedule of Deliverables  
 **Week 7**
 - Finish the interative bar chart
