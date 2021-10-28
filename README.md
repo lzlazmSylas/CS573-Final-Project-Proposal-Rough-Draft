@@ -56,7 +56,8 @@ The state will be marked as one of the colors and the darker the color, the high
 In this case I define the crime rate is equal to the number of selected type of crime for a state/ total number of crime for the given year.  
 ![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/mapchart.png)  
 
-**Whats New?**  
+# Whats New?
+
 
 
 # Schedule of Deliverables  
