@@ -57,8 +57,8 @@ In this case I define the crime rate is equal to the number of selected type of 
 ![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/mapchart.png)  
 
 # Whats New?  
-
-https://vizhub.com/lzlazmSylas/bc2000e9af9a4e139a9e2d322c3ccc63?edit=files
+![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/MapChartFinalVerson.png)
+https://vizhub.com/lzlazmSylas/bc2000e9af9a4e139a9e2d322c3ccc63?edit=files  
 For this two weeks, I built the india map chart by d3 and tried to combine the interactive bar chart with the map chart. I made the bar chart and map chart interat with each other  
 Now it has following functions:  
 1. It allow user the filter the data by year and crime type. The filtered date will be shown as the bar chart, the darker the color, the higher the crime number.  
