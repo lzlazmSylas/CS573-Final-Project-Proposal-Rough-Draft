@@ -2,7 +2,7 @@
 
 # Data
 In this project, I would use "Crimes against to woman in India" dataset.  
-https://gist.github.com/lzlazmSylas/6be318f1ef48498d10f831bbd78782f3   
+https://gist.github.com/lzlazmSylas/c5d21ca1a87fefbe69f6b927a035db58  
 This data set contains the crime cases information of different districts in each state in Inda from 2001 to 2014. I will visualize this data set in my project.    
 
 **Attribute：**   
@@ -64,7 +64,16 @@ Now it has following functions:
 1. It allow user the filter the data by year and crime type. The filtered date will be shown as the bar chart, the darker the color, the higher the crime number.  
 2. When one rectangle in the bar chart is selected, it will be highlighted and to corressponding state in map chart will also highlighted.
 3. When moving the mouse over the map chart and hover the mouse over the map chart, the map shows the specific crime information for the selected state, also the bar chart will  be highlighted.
+# Whats New(11.12)?
+https://vizhub.com/lzlazmSylas/dc2ea5bbb67b4ba69fca3c8885a46e2d?edit=files&file=index.html&mode=full
+At the end of the week, I have created two donut charts which allow user who figure out the percentage of crime case for some state in India and the percentage of the specific crime case among total crimes each year.
+New functions:  
+1. The first donut charts allow user to find the percentage of the specific crime case among total crimes each year.  
+2. The second donut chart make people tell the percentage of the specific crime cases in each state.
 
+# Current Challange  
+1. Now I want to knwo the crime rate of each state， I may need to import or join another date set that include the population of India from 2001 to 2014.
+2. There is a animation combination among the second donut chart, bar chart and map chart. It may confuse people when they move the cursor over the donut chart to find the percentage of spcific crime in one state and the bar chart will hightlight the number of crime case, even thought the information they shown may not related.
 
 # Schedule of Deliverables  
 **Week 7**
