@@ -78,33 +78,27 @@ New functions:
 2. There is a animation combination among the second donut chart, bar chart and map chart. It may confuse people when they move the cursor over the donut chart to find the percentage of spcific crime in one state and the bar chart will hightlight the number of crime case, even thought the information they shown may not related.
 
 # Schedule of Deliverables  
-**Week 7**
-~~Finish the interative bar chart~~  
+**Week 7**  
+- ~~Finish the interative bar chart~~  
 
-**Week 8**  
- ~~Add an interactive dropdown menu~~  
+**Week 8**    
+- ~~Add an interactive dropdown menu~~  
 
-**Week 9**
-~~Crete a map chart and make it interative~~  
-~~Make the map chart and bar chart interact with each other~~  
- - Fix bug
+**Week 9**  
+- ~~Crete a map chart and make it interative~~  
+- ~~Make the map chart and bar chart interact with each other~~  
+- ~~Fix bug~~  
 
-**Week 10**
-- Create the map chart 
- - Make sure the state in dataset can match to the map chart
+**Week 10**  
+- ~~Create donuts charts~~  
+- ~~Make sure the all information from dateset can be matched to all charts~~  
 
 
 **Week 11**
-- Link the map chart to the bar chart
- - Try to make then share both two dropdown menu
+- Conquer the challenges found in week 10
+- Import new dataset and do some calculations
  
 **Week 12**  
 - Try to bound all chart into one html page
 - Unit test
 
-**Week 13**
-- Unit test
-- Submit the final version of priject  
-
-# Possible Question
-- The some name of state maynot match to the mapchart build in d3.  
