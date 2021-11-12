@@ -66,7 +66,9 @@ Now it has following functions:
 3. When moving the mouse over the map chart and hover the mouse over the map chart, the map shows the specific crime information for the selected state, also the bar chart will  be highlighted.
 # Whats New(11.12)?
 https://vizhub.com/lzlazmSylas/dc2ea5bbb67b4ba69fca3c8885a46e2d?edit=files&file=index.html&mode=full
-At the end of the week, I have created two donut charts which allow user who figure out the percentage of crime case for some state in India and the percentage of the specific crime case among total crimes each year.
+At the end of the week, I have created two donut charts which allow user who figure out the percentage of crime case for some state in India and the percentage of the specific crime case among total crimes each year.  
+I corrected some spelling mistake in this dataset and make all state in upper case and now all data can be randered correctly.  
+
 New functions:  
 1. The first donut charts allow user to find the percentage of the specific crime case among total crimes each year.  
 2. The second donut chart make people tell the percentage of the specific crime cases in each state.
