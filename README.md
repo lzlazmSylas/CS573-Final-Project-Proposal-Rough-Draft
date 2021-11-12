@@ -64,8 +64,8 @@ Now it has following functions:
 1. It allow user the filter the data by year and crime type. The filtered date will be shown as the bar chart, the darker the color, the higher the crime number.  
 2. When one rectangle in the bar chart is selected, it will be highlighted and to corressponding state in map chart will also highlighted.
 3. When moving the mouse over the map chart and hover the mouse over the map chart, the map shows the specific crime information for the selected state, also the bar chart will  be highlighted.
-# Whats New(11.12)?
-https://vizhub.com/lzlazmSylas/dc2ea5bbb67b4ba69fca3c8885a46e2d?edit=files&file=index.html&mode=full
+# Whats New(11.12)?   
+https://vizhub.com/lzlazmSylas/dc2ea5bbb67b4ba69fca3c8885a46e2d?edit=files&file=index.html&mode=full   
 At the end of the week, I have created two donut charts which allow user who figure out the percentage of crime case for some state in India and the percentage of the specific crime case among total crimes each year.  
 I corrected some spelling mistake in this dataset and make all state in upper case and now all data can be randered correctly.  
 
@@ -79,17 +79,15 @@ New functions:
 
 # Schedule of Deliverables  
 **Week 7**
-- Finish the interative bar chart
+~~Finish the interative bar chart~~  
 
 **Week 8**  
-- Finish the first pie chart  
- - Create an new pie chart
- - Add an interactive dropdown menu  
+ ~~Add an interactive dropdown menu~~  
 
 **Week 9**
-- Finish the second pie chart  
- - Create an new pie chart
- - Add an interactive dropdown menu  
+~~Crete a map chart and make it interative~~  
+~~Make the map chart and bar chart interact with each other~~  
+ - Fix bug
 
 **Week 10**
 - Create the map chart 
