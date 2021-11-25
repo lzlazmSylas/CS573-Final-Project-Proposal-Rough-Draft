@@ -74,9 +74,13 @@ New functions:
 1. The first donut charts allow user to find the percentage of the specific crime case among total crimes each year.  
 2. The second donut chart make people tell the percentage of the specific crime cases in each state.
 
+# Whats New(11.24)?   
+This week I import a new dataset that describe the total population of each state in India from 2001 to 2014.  
+Then the criminal rate can be counted as number of total cases / every 100,000 resident.
+
 # Current Challange  
-1. Now I want to knwo the crime rate of each state， I may need to import or join another date set that include the population of India from 2001 to 2014.
-2. There is a animation combination among the second donut chart, bar chart and map chart. It may confuse people when they move the cursor over the donut chart to find the percentage of spcific crime in one state and the bar chart will hightlight the number of crime case, even thought the information they shown may not related.
+~~1. Now I want to knwo the crime rate of each state， I may need to import or join another date set that include the population of India from 2001 to 2014.~~  
+2. There is a animation combination among the second donut chart, bar chart and map chart. It may confuse people when they move the cursor over the donut chart to find the   percentage of spcific crime in one state and the bar chart will hightlight the number of crime case, even thought the information they shown may not related.
 
 # Schedule of Deliverables  
 **Week 7**  
@@ -96,8 +100,8 @@ New functions:
 
 
 **Week 11**
-- Conquer the challenges found in week 10
-- Import new dataset and do some calculations
+- ~~Conquer the challenges found in week 10~~ 
+- ~~Import new dataset and do some calculations~~  
  
 **Week 12**  
 - Try to bound all chart into one html page
