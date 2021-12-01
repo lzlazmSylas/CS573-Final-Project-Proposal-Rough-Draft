@@ -6,7 +6,7 @@ https://gist.github.com/lzlazmSylas/c5d21ca1a87fefbe69f6b927a035db58
 This data set contains the crime cases information of different districts in each state in Inda from 2001 to 2014. I will visualize this data set in my project.    
 
 **Attribute：**   
-
+First data set that describe the total criminal cases in India.  
 | Name | Type | Description |
 | :--- | :----: | :---- |
 | STATE | Categorical | state in india   |
@@ -18,6 +18,8 @@ This data set contains the crime cases information of different districts in eac
 | Assault on Women    | Quantitative      | number of assaulting     |   
 | Insult to Modesty of Women    | Quantitative      | number of insulting case     |   
 | Cruelty by Husband or His Relatives    | Quantitative      | number of cruelty by hubsband or victim's relatives    |   
+
+
 
  
 # Questions and Tasks
@@ -75,12 +77,23 @@ New functions:
 2. The second donut chart make people tell the percentage of the specific crime cases in each state.
 
 # Whats New(11.24)?   
-This week I import a new dataset that describe the total population of each state in India from 2001 to 2014.  
-Then the criminal rate can be counted as number of total cases / every 100,000 resident.
+1. This week I import a new dataset that describe the total population of each state in India from 2001 to 2014.  
+2. I only have data about 2001 and 2011 census of India which accurate to the population of each state. Then I have to use another data set that describe the total population of India to estimite the state population from 2001 to 2014.
+3. Then the criminal rate can be counted as #(number) of total cases / every 100,000 resident.  
+ 
+
+# Whats New(11.30)?   
+1. Reconstruct the code, make sure all important part locate in a JS file.
+2. When the mouse hove on the bottom donut chart, the donut chart and map chart will be highlighted only when their selected criminal type matched. Thus, there are no highlighting bar chart confuse users. 
 
 # Current Challange  
 ~~1. Now I want to knwo the crime rate of each state， I may need to import or join another date set that include the population of India from 2001 to 2014.~~  
-2. There is a animation combination among the second donut chart, bar chart and map chart. It may confuse people when they move the cursor over the donut chart to find the   percentage of spcific crime in one state and the bar chart will hightlight the number of crime case, even thought the information they shown may not related.
+~~2. There is a animation combination among the second donut chart, bar chart and map chart. It may confuse people when they move the cursor over the donut chart to find the   percentage of spcific crime in one state and the bar chart will hightlight the number of crime case, even thought the information they shown may not related.~~  
+
+# Reference:    
+1. World Population Prospects 2019 ： https://population.un.org/wpp/
+2. Cencus 2001: https://www.census2011.co.in/states.php
+3. https://en.wikipedia.org/wiki/List_of_states_in_India_by_past_population#By_past_population_(1947_to_2011)  
 
 # Schedule of Deliverables  
 **Week 7**  
@@ -104,6 +117,6 @@ Then the criminal rate can be counted as number of total cases / every 100,000 r
 - ~~Import new dataset and do some calculations~~  
  
 **Week 12**  
-- Try to bound all chart into one html page
-- Unit test
+- ~~Try to bound all chart into one html page~~  
+- ~~Unit test~~ 
 
