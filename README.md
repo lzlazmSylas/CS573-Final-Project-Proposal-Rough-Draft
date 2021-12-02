@@ -19,13 +19,13 @@ First data set that describe the total criminal cases in India.
 | Rape    | Quantitative     | number of rape     |  
 | Kidnapping and Abduction    | Quantitative      |  number of kindnapping and abduction     |   
 | Dowry Deaths    | Quantitative      | number of dowry death     |   
-| Assault on Women    | Quantitative      | number of assaulting     |   
+| Assault on Women    | Quantitative      | number of assaulting     |    
 | Insult to Modesty of Women    | Quantitative      | number of insulting case     |   
 | Cruelty by Husband or His Relatives    | Quantitative      | number of cruelty by hubsband or victim's relatives    |   
 
-The second data set contains population information of India.
-| STATE | Categorical | State in india   |
-| Year    | Quantitative  | population of each state fo specific year   |  
+The second data set contains population information of India.  
+| STATE | Categorical | State in india   |   
+| Year    | Quantitative  | population of each state fo specific year   |   
 
  
 # Questions and Tasks
