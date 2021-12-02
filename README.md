@@ -24,6 +24,8 @@ First data set that describe the total criminal cases in India.
 | Cruelty by Husband or His Relatives    | Quantitative      | number of cruelty by hubsband or victim's relatives    |   
 
 The second data set contains population information of India.  
+| Name | Type | Description |  
+| :--- | :----: | :---- |  
 | STATE | Categorical | State in india   |   
 | Year    | Quantitative  | population of each state fo specific year   |   
 
