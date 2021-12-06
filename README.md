@@ -94,7 +94,8 @@ New functions:
 2. When the mouse hove on the bottom donut chart, the donut chart and map chart will be highlighted only when their selected criminal type matched. Thus, there are no highlighting bar chart confuse users. 
 
 # Interactions   
-
+1. Drop down menu：This visualization is consist of three parts, each part include one or two drop down menu so people can filter the data by using it.
+2. 
 
 # Current Challange  
 ~~1. Now I want to knwo the crime rate of each state， I may need to import or join another date set that include the population of India from 2001 to 2014.~~  
