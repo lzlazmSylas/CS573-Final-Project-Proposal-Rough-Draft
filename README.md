@@ -27,7 +27,7 @@ The second data set contains population information of India.
 | Name | Type | Description |  
 | :--- | :----: | :---- |  
 | STATE | Categorical | State in india   |   
-| Year    | Quantitative  | population of each state fo specific year   |   
+| Year    | Quantitative  | population of each state for specific year   |   
 
  
 # Questions and Tasks
@@ -93,6 +93,9 @@ New functions:
 # Whats New(11.30)?   
 1. Reconstruct the code, make sure all important part locate in a JS file.
 2. When the mouse hove on the bottom donut chart, the donut chart and map chart will be highlighted only when their selected criminal type matched. Thus, there are no highlighting bar chart confuse users. 
+
+# Interactions   
+
 
 # Current Challange  
 ~~1. Now I want to knwo the crime rate of each state， I may need to import or join another date set that include the population of India from 2001 to 2014.~~  
