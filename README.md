@@ -54,7 +54,6 @@ There is one dropdown menu stick to this pie chart, it allows user to select the
 ![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/piechart01.png)  
 
 **Pie chart two**  
-# Schedule of Deliverables
 This pie chart will show the percentage of the total number of cases with its associated state by the given criminal type. In this pie chart, the number will be counted from 2001 to 2014.    
 There is one dropdown menu stick to this pie chart, it allows user to select the specific year then pie chart will immediately rendered based on that. 
 ![image](https://github.com/lzlazmSylas/CS573-Final-Project-Proposal-Rough-Draft/blob/main/piechart02.png) 
