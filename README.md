@@ -101,7 +101,7 @@ New functions:
 
 # Interactions   
 1. Drop down menu：This visualization is consist of three parts, each part include one or two drop down menu so people can filter the data by using it.
-2. 
+2. Highlight & tooltip：
 
 # Current Challange  
 ~~1. Now I want to knwo the crime rate of each state， I may need to import or join another date set that include the population of India from 2001 to 2014.~~  
