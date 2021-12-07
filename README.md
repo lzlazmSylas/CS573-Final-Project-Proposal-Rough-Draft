@@ -8,7 +8,9 @@ The other one is the data set contains population information of India:
 https://gist.github.com/lzlazmSylas/0e697ec5c8735d06eb660f0a81c61bee
 
 # Project  
-https://vizhub.com/lzlazmSylas/1505e03e7a4d4f4aa0f8b685a9da09ea?edit=files&file=index.js&mode=full
+https://vizhub.com/lzlazmSylas/1505e03e7a4d4f4aa0f8b685a9da09ea?edit=files&file=index.js&mode=full  
+YouTube link:  
+
 **Attribute：**   
 First data set that describe the total criminal cases in India.  
 | Name | Type | Description |
@@ -32,7 +34,7 @@ The second data set contains population information of India.
  
 # Questions & Tasks & Answers
 - Which state have highest total number of specific crimes in each year. (bar chart)
--- Answer: 
+  *Answer: 
 - Which state have highest crime rate of crimes for each type of crime. (pie chart)
 - Answer:   
 | State | Type of crime | Crime rate |  
