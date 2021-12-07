@@ -39,10 +39,10 @@ The second data set contains population information of India.
 * Which state have highest crime rate of crimes for each type of crime. (pie chart)
   Answer:    
   
-| Name | Type | Description |   
-| :--- | :----: | :---- |   
-| STATE | Categorical | State in india   |     
-| Year    | Quantitative  | population of each state for specific year   |   
+  | Name | Type | Description |   
+  | :--- | :----: | :---- |   
+  | STATE | Categorical | State in india   |     
+  | Year    | Quantitative  | population of each state for specific year   |   
 
 - What kind of crime take the largest precentage among the all kind of crimes for each year. (pie chart)
 - How does total number of crimes occured in each state compare to each other? The more intuitive version of crime cases! (map cahrt)
