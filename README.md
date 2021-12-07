@@ -34,11 +34,11 @@ The second data set contains population information of India.
 - Which state have highest total number of specific crimes in each year. (bar chart)
 -- Answer: 
 - Which state have highest crime rate of crimes for each type of crime. (pie chart)
--- Answer:
+- Answer:   
 | State | Type of crime | Crime rate |  
 | :--- | :----: | :---- |  
 | STATE | Categorical | State in india   |   
-| Year    | Quantitative  | population of each state for specific year   |  
+| Year    | Quantitative  | population of each state for specific year   |   
 - What kind of crime take the largest precentage among the all kind of crimes for each year. (pie chart)
 - How does total number of crimes occured in each state compare to each other? The more intuitive version of crime cases! (map cahrt)
 
@@ -101,7 +101,7 @@ New functions:
 
 # Interactions   
 1. Drop down menu：This visualization is consist of three parts, each part include one or two drop down menu so people can filter the data by using it.
-2. Highlight & tooltip：
+2. Highlight & tooltip：When mouse hove over the charts, the tooltip that shown some specific information of crimes will appear. These tooltip will disappear if move mouse out of the charts.
 
 # Current Challange  
 ~~1. Now I want to knwo the crime rate of each state， I may need to import or join another date set that include the population of India from 2001 to 2014.~~  
