@@ -35,6 +35,7 @@ The second data set contains population information of India.
 # Questions & Tasks & Answers
 * Which state have highest total number of specific crimes in each year. (bar chart)  
   
+  
 * Which state have highest crime rate of crimes for each type of crime. (pie chart)  
   Answer:    
   
@@ -47,7 +48,9 @@ The second data set contains population information of India.
   | Insult to Modesty of Women | UTTAR PRADESH | 29.7%   |   
   | Cruelty by Husband or His Relatives | WEST BENGAL | 15.4%   |   
 
-- What kind of crime take the largest precentage among the all kind of crimes for each year. (pie chart)
+* What kind of crime take the largest precentage among the all kind of crimes for each year. (pie chart)  
+  Answer: Always "Cruelty by Husband or His Relatives".
+  
 - How does total number of crimes occured in each state compare to each other? The more intuitive version of crime cases! (map cahrt)
 
 # Prototype
