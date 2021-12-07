@@ -9,8 +9,7 @@ https://gist.github.com/lzlazmSylas/0e697ec5c8735d06eb660f0a81c61bee
 
 # Reference:    
 1. World Population Prospects 2019 ： https://population.un.org/wpp/
-2. Cencus 2001: https://www.census2011.co.in/states.php
-3. https://en.wikipedia.org/wiki/List_of_states_in_India_by_past_population#By_past_population_(1947_to_2011)  
+2. https://en.wikipedia.org/wiki/List_of_states_in_India_by_past_population#By_past_population_(1947_to_2011)  
  
 
 # Project  
