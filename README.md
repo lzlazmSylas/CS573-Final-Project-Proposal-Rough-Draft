@@ -4,12 +4,14 @@
 In this project, I would use "Crimes against to woman in India" dataset.  
 https://gist.github.com/lzlazmSylas/c5d21ca1a87fefbe69f6b927a035db58  
 This data set contains the crime cases information of different districts in each state in Inda from 2001 to 2014. I will visualize this data set in my project.  
+The other one is the data set contains population information of India:
+https://gist.github.com/lzlazmSylas/0e697ec5c8735d06eb660f0a81c61bee  
+
 # Reference:    
 1. World Population Prospects 2019 ： https://population.un.org/wpp/
 2. Cencus 2001: https://www.census2011.co.in/states.php
 3. https://en.wikipedia.org/wiki/List_of_states_in_India_by_past_population#By_past_population_(1947_to_2011)  
-The other one is the data set contains population information of India:  
-https://gist.github.com/lzlazmSylas/0e697ec5c8735d06eb660f0a81c61bee.  
+ 
 
 # Project  
 https://vizhub.com/lzlazmSylas/1505e03e7a4d4f4aa0f8b685a9da09ea?edit=files&file=index.js&mode=full  
