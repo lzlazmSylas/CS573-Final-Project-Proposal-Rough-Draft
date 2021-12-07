@@ -39,10 +39,14 @@ The second data set contains population information of India.
 * Which state have highest crime rate of crimes for each type of crime. (pie chart)
   Answer:    
   
-  | Name | Type | Description |   
+  | Type of Crime| Type | Crime Rate |   
   | :--- | :----: | :---- |   
-  | STATE | Categorical | State in india   |     
-  | Year    | Quantitative  | population of each state for specific year   |   
+  | Rape | MADHYA PRADESH | 14.7%   |     
+  | Kidnapping and Abduction   | UTTAR PRADESH  | 18.2%   |   
+  | Dowry Deaths | UTTAR PRADESH | 26.6%   |   
+  | Assault on Women | MADHYA PRADESH| 16.1%   |   
+  | Insult to Modesty of Women | UTTAR PRADESH | 29.7%   |   
+  | Cruelty by Husband or His Relatives | WEST BENGAL | 15.4%   |   
 
 - What kind of crime take the largest precentage among the all kind of crimes for each year. (pie chart)
 - How does total number of crimes occured in each state compare to each other? The more intuitive version of crime cases! (map cahrt)
