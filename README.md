@@ -34,25 +34,6 @@ The second data set contains population information of India.
  
 # Questions & Tasks & Answers
 * Which state have highest total number of specific crimes in each year. (bar chart)  
-  Answer:  
-  
-  | Year | State |
-  | :--- | :---- |   
-  | 2001 | MADHYA PRADESH |
-  | 2002 | UTTAR PRADESH  |
-  | 2003 | UTTAR PRADESH |  
-  | 2004 | MADHYA PRADESH|
-  | 2005 | UTTAR PRADESH |
-  | 2006 | WEST BENGAL |
-  | 2007 | WEST BENGAL |
-  | 2008 | WEST BENGAL |
-  | 2009 | WEST BENGAL |
-  | 2010 | WEST BENGAL |
-  | 2011 | WEST BENGAL |
-  | 2012 | WEST BENGAL |
-  | 2013 | WEST BENGAL |
-  | 2014 | WEST BENGAL |
-  
   
 * Which state have highest crime rate of crimes for each type of crime. (pie chart)  
   Answer:    
