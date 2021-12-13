@@ -13,8 +13,8 @@ https://gist.github.com/lzlazmSylas/0e697ec5c8735d06eb660f0a81c61bee
  
 
 # Project  
-**Project link: https://vizhub.com/lzlazmSylas/1505e03e7a4d4f4aa0f8b685a9da09ea?edit=files&file=index.js&mode=full  
-**YouTube link: https://www.youtube.com/watch?v=LDDoaj6czyQ
+**Project link: ** https://vizhub.com/lzlazmSylas/1505e03e7a4d4f4aa0f8b685a9da09ea?edit=files&file=index.js&mode=full  
+**YouTube link: ** https://www.youtube.com/watch?v=LDDoaj6czyQ
 
 **Attribute：**   
 First data set that describe the total criminal cases in India.  
